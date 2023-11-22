@@ -1,6 +1,5 @@
 var personagem = "Thanos"
-var xp = -5500
-
+var xp = 20000
 if(xp < 1000 && xp >= 0){
     console.log("O Herói de nome " + personagem + " está no nível de FERRO")
 }else if(xp > 1000 && xp <= 2000){
